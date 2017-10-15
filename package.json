@@ -13,7 +13,12 @@
     "seti",
     "vs",
     "visual",
-    "studio"
+    "studio",
+    "js",
+    "html",
+    "css",
+    "pug",
+    "sass"
   ],
   "license": "MIT",
   "name": "seti-vs-syntax",
